@@ -12,5 +12,5 @@ Argumen	Deskripsi
 --url	Target URL (contoh: https://example.com)
 --duration	Durasi serangan dalam detik (default: 60)
 --rps	Request per second (default: 100)
---methods	Metode HTTP yang digunakan (default: GET,POST,PUT,HEAD,OPTIONS)
+--methods	Metode HTTP/HTTPS yang digunakan (default: GET,POST,PUT,HEAD,OPTIONS)
 --payloads	File teks berisi payload untuk POST/PUT (default: payloads.txt)
