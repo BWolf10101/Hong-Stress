@@ -1,4 +1,4 @@
-Ini merupakan tools sederhana yang di buat hanya untuk uji coba,ini merupaka tools pertama saya yg saya buat untuk uji coba kemanan system dari serangan bot, tools ini belum sempurna dan dapat di blokir oleh system kemanan seperti vercel dll. tetapi HongStress ini tetap dapat bekerja untuk uji coba pentestin tingkat medium.
+Ini merupakan tools sederhana yang di buat hanya untuk uji coba,ini merupaka tools pertama saya yg saya buat untuk uji coba kemanan system dari serangan bot, tools ini belum sempurna dan dapat di blokir oleh system kemanan seperti vercel dll. tetapi HongStress ini tetap dapat bekerja untuk uji coba pentesting tingkat medium.
 
 kerja dari tools ini mengirimkan request yang begitu banyak pada server untuk uji coba system security pada server atau domain untuk dapat memblok aktifitas anomali
 
